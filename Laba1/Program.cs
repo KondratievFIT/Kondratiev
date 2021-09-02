@@ -10,7 +10,9 @@ namespace Laba1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Labaratona robota 1");
+            Console.WriteLine("First commit");
+            Console.WriteLine("Second commit");
         }
     }
 }
