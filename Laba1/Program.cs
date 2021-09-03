@@ -13,6 +13,7 @@ namespace Laba1
             Console.WriteLine("Labaratona robota 1");
             Console.WriteLine("First commit");
             Console.WriteLine("Second commit");
+            Console.WriteLine("Third commit");
         }
     }
 }
